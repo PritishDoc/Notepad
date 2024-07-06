@@ -4,6 +4,7 @@
 
 The Notepad Internal Frame project is a simple Java-based text editor implemented using the Swing library. It provides basic functionalities such as opening, editing, and saving text files within an internal frame.
 ![alt text](<Screenshot 2024-07-03 184930.png>)
+## Single fullscreen window
 ![alt text](<Screenshot 2024-07-01 214437.png>)
 ## Features
 
@@ -36,6 +37,7 @@ The Notepad Internal Frame project is a simple Java-based text editor implemente
 - Choose the destination and filename from the file chooser dialog.
 **Exiting the Application**:
 Click on the "File" menu and select "Exit" to close the application.
+![alt text](<Screenshot 2024-07-01 214510.png>)
 ## Dependencies
 This project relies on the following Java libraries, which are part of the JDK:
 
